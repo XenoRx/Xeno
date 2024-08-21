@@ -13,5 +13,5 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://unity.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" alt="Unity" width="60" height="40"/></a>
-  <a href="https://https://www.blender.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" alt="linux" width="60" height="40"/></a>
+  <a href="https://https://www.blender.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" alt="linux" width="60" height="60"/></a>
 </p>
