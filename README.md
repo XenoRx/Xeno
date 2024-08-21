@@ -12,6 +12,6 @@
 <p align="center">
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/emacs/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="linux" width="40" height="40"/></a>
+  <a href="??" target="_blank"><img src="??" alt="linux" width="40" height="40"/></a>
   <a href="https://https://www.blender.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" alt="linux" width="40" height="40"/></a>
 </p>
